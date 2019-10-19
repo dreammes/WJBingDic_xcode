@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinfPaths</key>
+	<array>
+		<string>SC_Info/BingDic.sinf</string>
+	</array>
+	<key>SinfReplicationPaths</key>
+	<array>
+		<string>Frameworks/Argo.framework/SC_Info/Argo.sinf</string>
+		<string>Frameworks/Curry.framework/SC_Info/Curry.sinf</string>
+		<string>Frameworks/MSAL.framework/SC_Info/MSAL.sinf</string>
+		<string>Frameworks/Realm.framework/SC_Info/Realm.sinf</string>
+		<string>Frameworks/RealmSwift.framework/SC_Info/RealmSwift.sinf</string>
+		<string>Frameworks/Runes.framework/SC_Info/Runes.sinf</string>
+		<string>Frameworks/SQLite.framework/SC_Info/SQLite.sinf</string>
+		<string>Frameworks/SocketRocket.framework/SC_Info/SocketRocket.sinf</string>
+		<string>SC_Info/BingDic.sinf</string>
+	</array>
+</dict>
+</plist>

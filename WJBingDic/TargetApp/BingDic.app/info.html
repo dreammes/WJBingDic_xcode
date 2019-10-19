@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+        <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+        <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+        <script type='text/javascript'>//<![CDATA[
+            $(window).load(function(){
+                           $('p').each(function (index, element) {
+                                       var tempText = $(element).text();
+                                       var tempHTML = tempText.replace(/[A-Za-z]+/g, function(text){
+                                                                       return "<span>" + text + "</span>";
+                                                                       });
+                                       var reg = new RegExp("(" + tempText + ")","g");
+                                       $(element).html($(element).html().replace(reg, tempHTML));
+                                       }).click(function(e){
+                                                WBBridge.selectText({
+                                                                    'text' : e.target.innerHTML,
+                                                                    'x' : e.target.offsetLeft.toString(),
+                                                                    'y' : (e.target.offsetTop + e.target.offsetHeight).toString()
+                                                                    })
+                                                });
+            })
+            </script>
+
+        <style type="text/css">
+            body {
+/**               font-size: 16px;*/
+                margin: 0px;
+                padding: 0px;
+                background-size: 100%;
+            }
+            img {
+                margin:0 auto;
+                width: 100%;
+                height: 100%;
+                padding:0;
+            }
+        div#allcontent{        margin:0 auto;        text-align:left;     }
+        .icon{        width:1.5em;        height:1.5em;    }
+        div#details{        font-size:80%;        color:gray;    }
+        </style>
+    </head>
+<body  width="BingDicWidth">
+ <div data-role="content" style="background-color:#FFFFFF" id="allcontent">  BingDicRichCONTENT</div>
+</body>
+</html>

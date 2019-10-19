@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<NotebookUnit xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="https://www.w3.org/2001/XMLSchema">
+  <Words>
+    <WordUnit>
+      <HeadWord>Bing</HeadWord>
+      <Phonetic>US:[ˈbɪŋ]</Phonetic>
+      <Defi>n. 必应；必应搜索引擎；宾；矿堆；</Defi>
+      <Note>生词本使用指南：</Note>
+    </WordUnit>
+    <WordUnit>
+      <HeadWord>Dictionary</HeadWord>
+      <Phonetic>US:[ˈdɪkʃəˌneri]</Phonetic>
+      <Defi>n. 词典；字典；辞书；专业术语大全；</Defi>
+      <Note>使用windows账号登录，可以将生词保存到您的OneDrive账号，从而在多个词典客户端之间同步数据。</Note>
+    </WordUnit>
+    <WordUnit>
+      <HeadWord>Helpful</HeadWord>
+      <Phonetic>US:[ˈhelpfəl]</Phonetic>
+      <Defi>adj. 有用的；有益的；有帮助的；愿意帮忙的；</Defi>
+      <Note>使用上下翻页键快速检索单词。</Note>
+    </WordUnit>
+    <WordUnit>
+      <HeadWord>Wonderful</HeadWord>
+      <Phonetic>US:[ˈwʌndərfəl]</Phonetic>
+      <Defi>adj. 精彩的；绝妙的；令人高兴的；使人愉快的；</Defi>
+      <Note>点击表格列名“单词”，“添加时间”进行单词排序。</Note>
+    </WordUnit>
+    <WordUnit>
+      <HeadWord>Feature</HeadWord>
+      <Phonetic>US:[ˈfitʃər]</Phonetic>
+      <Defi>n. 特征；特点；特色；故事片；vt. 以…为特色；由…主演；以…为主要组成；</Defi>
+      <Note>鼠标左键单击选择单词，支持ctrl和shift进行多选。</Note>
+    </WordUnit>
+    <WordUnit>
+      <HeadWord>And</HeadWord>
+      <Phonetic>US:[ənd]</Phonetic>
+      <Defi>conj. 与；和；而；又；n. 附加条件；附加细节；</Defi>
+      <Note>右键菜单支持更多功能，单词编辑，移动，查询。</Note>
+    </WordUnit>
+    <WordUnit>
+      <HeadWord>Usage</HeadWord>
+      <Phonetic>US:[ˈjusɪdʒ]</Phonetic>
+      <Defi>n. 使用；利用；利用率；惯用法；</Defi>
+      <Note>使用附注对单词的信息进行整理。</Note>
+    </WordUnit>
+    <WordUnit>
+      <HeadWord>Note</HeadWord>
+      <Phonetic>US:[noʊt]</Phonetic>
+      <Defi>v. 注意；指出；留意；特别提到；n. 笔记；注释；记录；便条；</Defi>
+      <Note>使用界面底部的鼠标手势调整生词本的屏幕大小。</Note>
+    </WordUnit>
+    <WordUnit>
+      <HeadWord>For</HeadWord>
+      <Phonetic>US:[fɔr]</Phonetic>
+      <Defi>prep. 对；因为；为了；由于；conj. 因为；由于；</Defi>
+      <Note>合理切换默认生词本，在必应词典结果页面加入生词会添加到默认生词本。</Note>
+    </WordUnit>
+    <WordUnit>
+      <HeadWord>You</HeadWord>
+      <Phonetic>US:[ju]</Phonetic>
+      <Defi>pron. 大家；各位；诸位；你；</Defi>
+      <Note>合理地利用附注，能有效帮助记忆单词。</Note>
+    </WordUnit>
+    <WordUnit>
+      <HeadWord>hello world</HeadWord>
+      <Phonetic />
+      <Defi>n. 世界你好；</Defi>
+      <Note>更多功能敬请期待，欢迎反馈意见。</Note>
+    </WordUnit>
+  </Words>
+</NotebookUnit>
